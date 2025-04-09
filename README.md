@@ -27,7 +27,8 @@ Before you begin, ensure you have the following installed or set up:
 1.  **Clone the Repository:**
     Open your terminal or command prompt and run:
     ```bash
-   https://github.com/Ducky2025/discord-setup-bot
+     https://github.com/Ducky2025/discord-setup-bot
+      ```
 
 2.  **Navigate to the Directory:**
     Change into the newly downloaded folder:
