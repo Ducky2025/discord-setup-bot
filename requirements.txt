@@ -1,0 +1,10 @@
+In Termux, make sure you are in your project directory (~/downloads or wherever setup_bot.py is).
+Run this command to automatically create the requirements.txt file based on the libraries you installed:
+pip freeze > requirements.txt
+Bash
+(This might list more libraries than just discord.py and python-dotenv if you've installed other things globally, which is usually fine).
+Now, add this new file to Git and push it to GitHub:
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push origin main # Or 'master' if that's your branch name
+Bash
